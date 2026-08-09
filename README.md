@@ -8,7 +8,7 @@ A Next.js/Vercel-ready adaptive technical interviewer grounded in the supplied 3
 
 ## Gemini setup — no OpenAI billing
 
-This build uses the Gemini Developer API with `gemini-2.5-flash`. Google currently lists Gemini 2.5 Flash as **free of charge on the Standard Free Tier**, subject to rate limits. The free tier is separate from paid Google Cloud billing.
+This build uses the Gemini Developer API with `gemini-3.6-flash`. Google currently lists Gemini 2.5 Flash as **free of charge on the Standard Free Tier**, subject to rate limits. The free tier is separate from paid Google Cloud billing.
 
 Create a Gemini API key in Google AI Studio:
 

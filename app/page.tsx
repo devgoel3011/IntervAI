@@ -227,7 +227,7 @@ export default function Home() {
       <section className="hero">
         <span className="hero-eyebrow">PERSONALIZED AI INTERVIEW AGENT</span>
         <h1>
-          Show what you <em>built.</em>
+          Personalised AI <em>INTERVIEWYER.</em>
         </h1>
         <p>
           Defend your engineering decisions across RAG, vector search,
